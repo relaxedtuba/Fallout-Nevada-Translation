@@ -1,6 +1,6 @@
-{100}{}{A well with muddy water. But it is still cleaner than in most other places.}
+{100}{}{A well with muddy water. Still cleaner than in most other places.}
 {101}{}{Do you want to get something else from it?}
-{102}{}{By disinfecting and boiling some dirty water from the well, you get some clean water.}
+{102}{}{By disinfecting and boiling dirty water from the well, you get some clean water.}
 {103}{}{You already took water today, save some for the tribe!}
 {104}{}{Mmm! Water!}
 {105}{}{Wait a while, the water has not yet settled and is still muddy.}
