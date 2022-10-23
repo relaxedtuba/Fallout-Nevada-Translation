@@ -1,5 +1,5 @@
 {100}{}{You can't use this device during combat.}
-{101}{}{This device can only be used when held in hands.}
+{101}{}{This device can only be used when held.}
 
 {102}{}{You have depleted you heavy bullets stock.}
 
@@ -25,13 +25,13 @@
 
 #Caliber choosing
 {200}{}{}
-{201}{}{10 mm}
+{201}{}{10mm}
 {202}{}{12 gauge}
 {203}{}{0.44 Magnum}
-{204}{}{0,223}
-{205}{}{0,30 rifle}
-{206}{}{9 mm}
+{204}{}{0.223}
+{205}{}{0.30 rifle}
+{206}{}{9mm}
 {207}{}{}
 {208}{}{0,45}
-{209}{}{5 mm}
+{209}{}{5mm}
 {210}{}{12 gauge coin shot (uses heavy bullets)}
