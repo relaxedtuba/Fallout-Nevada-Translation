@@ -36,7 +36,7 @@
 {320}{}{That's too confusing.}
 
 #Tech's pop-ups when stealing a car
-{321}{}{You son of a gun! I'll fucking kill you!!!}
-{322}{}{I'll find you and kill you!!! Do you hear me?!}
+{321}{}{You son of a bitch! You're dead!}
+{322}{}{I'll find you and I'll kill you! Do you understand me?!}
 
 {323}{}{Try to remount the ignition system.}
