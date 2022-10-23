@@ -1,7 +1,7 @@
 {100}{}{You see a vending machine.}
 {101}{}{You see the Nuka-Cola vending machine - an essential tool for your business.}
-{102}{}{This vending machine is broken and robbed.}
-{103}{}{Not during combat!}
+{102}{}{This vending machine is broken and empty.}
+{103}{}{Can't interact during combat.}
 
 #Starting conversation:
 {110}{}{This machine still works and generates income for you.}
